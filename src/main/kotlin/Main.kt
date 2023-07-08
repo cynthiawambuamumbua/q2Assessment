@@ -42,8 +42,6 @@ fun main() {
     val john = Student("John", 22, listOf(60, 70, 65, 80, 75))
     val emily = Student("Emily", 20, listOf(90, 85, 95, 92, 88))
 
-
-
     val david = Student("David", 26, listOf(55, 60, 58, 62, 70))
 
     val flights = listOf(
@@ -67,8 +65,6 @@ fun main() {
 
 
 }
-
-
 // **Ancestral Stories:** In many African cultures,
 //  the art of storytelling is passed
 //  down from generation to generation. Imagine you're
